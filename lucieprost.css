@@ -1,0 +1,29 @@
+body{
+    background-color: #ffe5ec;
+    color: #fb6f92;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    background-color: #86cbed;
+    transition: width 2s;
+}
+
+div:hover{
+    width: 100%;
+}
+
+button{
+    padding-top: 24px;
+    padding-bottom: 24px;
+    background-color:#ffc0cb;
+    color:#fb6f92;
+    border-style: solid;
+    border-color: #fb6f92;
+    border-radius: 50% 50%;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+
+}
